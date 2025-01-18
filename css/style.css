@@ -1,0 +1,32 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the background image */
+body {
+  background-image: url("../images/Potography Project.jpg"); /* Path to your image */
+  background-size: cover; /* Scale the image to cover the entire background */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center; /* Center the image in the viewport */
+  height: 100vh; /* Make sure the background covers the full height */
+  font-family: Arial, sans-serif;
+  color: white; /* Ensure text is readable on the background */
+}
+header {
+  color: black;
+  margin: 1cm;
+  border: 0cm;
+  padding: 1cm;
+  background-color: white;
+}
+.list {
+  display: flex;
+  justify-content: flex-end;
+  gap: 40px;
+  font-size: larger;
+  list-style: none;
+  height: 1cm;
+}

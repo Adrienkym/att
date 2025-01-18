@@ -52,3 +52,13 @@ body {
   border: 1cm red;
   padding: cm;
 }
+.cnt {
+  width: 800px;
+  height: 400px;
+}
+.ytn {
+  color: green;
+  background-color: black;
+  border-radius: 3cm;
+  border: 3cm;
+}

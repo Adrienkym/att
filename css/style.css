@@ -73,3 +73,39 @@ body {
   margin: cm;
   border: 1cm;
 }
+#y {
+  display: flex;
+  width: 1000px;
+  height: 400px;
+  object-fit: cover;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 10px;
+}
+#v {
+  display: flex;
+  width: 800px;
+  height: 400px;
+  object-fit: cover;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 10px;
+}
+#io {
+  display: flex;
+  width: 800px;
+  height: 400px;
+  object-fit: cover;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 10px;
+}
+.one {
+  color: black;
+  text-align: center;
+  font-size: x-large;
+  font-style: oblique;
+  border: 10px;
+  padding: 1cm;
+  background-color: silver;
+}

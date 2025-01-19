@@ -38,6 +38,11 @@ body {
     justify-content: space-evenly;
   }
 }
+.index {
+  border: 0cm;
+  margin: 0cm;
+  padding: 1cm;
+}
 .contain {
   width: 500px; /* Set the width */
   height: 400px; /* Set the height */
@@ -108,4 +113,12 @@ body {
   border: 10px;
   padding: 1cm;
   background-color: silver;
+}
+.ytr {
+  color: black;
+  border: 0cm;
+  margin: 0cm;
+  padding: 1cm;
+  font-style: oblique;
+  font-size: larger;
 }
